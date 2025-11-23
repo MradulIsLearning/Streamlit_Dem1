@@ -43,7 +43,7 @@ Mushroom Data Set — UCI Machine Learning Repository
 Features describe mushroom characteristics and classify them as edible or poisonous.
 
 🔗 Dataset info:
-https://archive.ics.uci.edu/ml/datasets/Mushroom
+[https://archive.ics.uci.edu/ml/datasets/Mushroom](https://drive.google.com/file/d/1GQOU85fzVAwqAX5Ax3u7T6Nuo_wBRz2j/view?usp=drive_link)
 
 ⚠️ Make sure you update the CSV file path inside the code:
 
