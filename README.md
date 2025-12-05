@@ -35,8 +35,8 @@ Frontend UI	Streamlit
 Machine Learning	Scikit-Learn
 Data Handling	Pandas, NumPy
 Visualization	Matplotlib
-📂 Dataset
 
+📂 Dataset
 The dataset used is:
 
 Mushroom Data Set — UCI Machine Learning Repository
@@ -63,8 +63,6 @@ Then open the URL shown in the terminal (usually http://localhost:8501).
 
 🛠 Requirements
 
-Example requirements.txt:
-
 streamlit
 pandas
 numpy
@@ -78,10 +76,9 @@ matplotlib
 📌 Enhance dataset visualization
 📌 Add model explainability (SHAP/LIME)
 
-👨‍💻 Author
-
-Your Name
+👨‍💻 Author : *Mradul Bhartiya*
 B.Tech in Artificial Intelligence & Data Science
+
 📧 your-mradulbhartiya111@gmail.com
 
 🔗 LinkedIn: <www.linkedin.com/in/mradul-bhartiya-292a5729a>
